@@ -11,25 +11,24 @@ I followed a YouTube tutorial and manually repeated all the steps on my own mach
 ## Repository Structure
 
 The structure for this repository is as followed :- 
-
-README.md
-Practice files
+- README.md
+- Practice files
 
 ## Tools Used
-Git
-Github
-ITerm
+- Git
+- Github
+- ITerm
 
 ## Topics Covered
 
-–  Conceptual understanding of Git & Github
-–  Workflow of local and remote repository
-–  Repository Management
-–  Branching
-–  Merging and handling merge conflict
-–  Repository synchronisation 
-–  Advanced git operations
-–  Pull requests(PR)
+- Conceptual understanding of Git & Github
+- Workflow of local and remote repository
+- Repository Management
+- Branching
+- Merging and handling merge conflict
+- Repository synchronisation
+- Advanced git operations
+- Pull requests(PR)
 
 ## Git Commands I practiced
 
